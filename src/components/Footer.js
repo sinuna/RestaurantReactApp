@@ -26,7 +26,7 @@ export default function Footer() {
 
  <div>
  <i className="fa fa-map-marker"></i>
- <p><span>New Road, Nepal</span>khajaghar@gmail.com</p>
+ <p><span>New Road, Kathmandu</span>khajaghar@gmail.com</p>
  </div>
 
  <div>
